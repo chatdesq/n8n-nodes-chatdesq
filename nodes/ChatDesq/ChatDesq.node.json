@@ -1,0 +1,14 @@
+{
+	"node": "n8n-nodes-chatdesq.chatDesq",
+	"nodeVersion": "1.0",
+	"codexVersion": "1.0",
+	"categories": ["Communication", "Marketing & Content"],
+	"resources": {
+		"credentialDocumentation": [
+			{ "url": "https://github.com/chatdesq/n8n-nodes-chatdesq#credentials" }
+		],
+		"primaryDocumentation": [
+			{ "url": "https://github.com/chatdesq/n8n-nodes-chatdesq#readme" }
+		]
+	}
+}
